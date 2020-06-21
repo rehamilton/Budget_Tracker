@@ -7,6 +7,8 @@ A Budget Tracker application which allows for offline access and functionality.
 
 * [Criteria](#criteria)
 
+* [Heroku](#Heroku)
+
 * [Installation](#installation)
 
 * [Usage](#Usage)
@@ -60,13 +62,13 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Screenshots
 
-![./markdownAssets/.png](https://github.com/rehamilton/Budget_Tracker/blob/master/markdownAssets/)
+![./markdownAssets/Dashboard.png](https://github.com/rehamilton/Budget_Tracker/blob/master/markdownAssets/Dashboard.PNG)
 
-![./markdownAssets/.png](https://github.com/rehamilton/Budget_Tracker/blob/master/markdownAssets/)
+![./markdownAssets/dataCache.png](https://github.com/rehamilton/Budget_Tracker/blob/master/markdownAssets/dataCache.PNG)
 
-![./markdownAssets/.png](https://github.com/rehamilton/Budget_Tracker/blob/master/markdownAssets/)
+![./markdownAssets/staticCache.png](https://github.com/rehamilton/Budget_Tracker/blob/master/markdownAssets/staticCache.PNG)
 
-![./markdownAssets/.png](https://github.com/rehamilton/Budget_Tracker/blob/master/markdownAssets/)
+![./markdownAssets/pendingOffline.png](https://github.com/rehamilton/Budget_Tracker/blob/master/markdownAssets/pendingOffline.PNG)
 
 ## Questions
 
